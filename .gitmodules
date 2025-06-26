@@ -1,0 +1,3 @@
+[submodule "Dependencies/rlottie"]
+	path = Dependencies/rlottie
+	url = https://github.com/TommyP844/rlottie
