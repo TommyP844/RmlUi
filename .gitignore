@@ -40,3 +40,7 @@ x64/
 vcpkg/
 CMakeSettings.json
 compile_commands.json
+obj/
+*.vcxproj
+*.vcxproj.filters
+
